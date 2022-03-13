@@ -1,0 +1,20 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 13 14:54:03.689442 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.52 (Debian) PHP/7.3.33 configured -- resuming normal operations
+[Sun Mar 13 14:54:03.689474 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Mar 13 14:58:48.870979 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun Mar 13 14:58:51.932423 2022] [ssl:warn] [pid 1] AH01906: 127.0.0.1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Mar 13 14:58:51.932484 2022] [ssl:warn] [pid 1] AH01909: 127.0.0.1:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 13 14:58:51.946664 2022] [ssl:warn] [pid 1] AH01906: 127.0.0.1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Mar 13 14:58:51.946699 2022] [ssl:warn] [pid 1] AH01909: 127.0.0.1:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 13 14:58:51.949068 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.52 (Debian) PHP/7.3.33 OpenSSL/1.1.1k configured -- resuming normal operations
+[Sun Mar 13 14:58:51.949094 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Mar 13 15:03:39.922463 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun Mar 13 15:03:43.109606 2022] [ssl:warn] [pid 1] AH01906: 127.0.0.1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Mar 13 15:03:43.109707 2022] [ssl:warn] [pid 1] AH01909: 127.0.0.1:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 13 15:03:43.126545 2022] [ssl:warn] [pid 1] AH01906: 127.0.0.1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Mar 13 15:03:43.126587 2022] [ssl:warn] [pid 1] AH01909: 127.0.0.1:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 13 15:03:43.129247 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.52 (Debian) PHP/7.3.33 OpenSSL/1.1.1k configured -- resuming normal operations
+[Sun Mar 13 15:03:43.129276 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Mar 13 15:05:43.634173 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
