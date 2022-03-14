@@ -13,4 +13,6 @@ sudo yum -y install docker; \
 
 #UP Apache
 
-# aws s3 cp s3://state-lib/webserver/ /home/ec2-user --recursive && cd /home/ec2-user && docker-compose up -d 
+# aws s3 cp s3://state-lib/webserver/ /home/ec2-user/webserver --recursive && cd /home/ec2-user/webserver && docker-compose up -d 
+
+

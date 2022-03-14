@@ -9,7 +9,7 @@ locals {
 
 terraform {
   backend "s3" {
-    bucket     = "state-lib"
+    bucket     = "statelib"
     key        = "lib/terraform.tfstate"
     region     = "us-west-2"
   }
